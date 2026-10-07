@@ -1,0 +1,6 @@
+Ada Lovelace [CEO]
+├─ Grace Hopper [VP Engineering]
+│  ├─ Alan Turing [Staff Eng]
+│  └─ Edsger Dijkstra [Staff Eng]
+└─ Katherine Johnson [VP Data]
+   └─ Margaret Hamilton [Eng Manager]

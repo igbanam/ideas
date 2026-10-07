@@ -1,0 +1,4 @@
+Ada Lovelace [CEO]
+└─ Grace Hopper [VP Engineering]
+Bob [VP Sales]
+└─ Cy [Rep]

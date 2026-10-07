@@ -1,0 +1,3 @@
+# Multi-byte names must not break alignment.
+José [Eng]
+  Müller [Staff Eng]
